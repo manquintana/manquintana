@@ -1,4 +1,4 @@
-<h1>Welcome, visitor</h1>
+<h1>Welcome, visitor. You have found good people.</h1>
 
 - 👋 Hi, I’m @manquintana aka el jevi
 - 👀 I’m interested in programming, teaching and punk rocking
