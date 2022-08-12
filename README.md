@@ -17,9 +17,8 @@
       <li>Data science university course (Faculty of Engineering)</li>
       <li>Programming workshop I (Faculty of Communication)</li>
       <li>Programming workshop II (Faculty of Communication)</li>
-      <li>And I'm preparing my coming course 'Financial applications with Python' for the Fintech Lab (Faculty of Economics)</li>
+      <li>Financial applications with Python (FinLab of the Faculty of Economics)</li>
     </ol>
   <li>This year I was traveling with my girlfriend around Germany and suddenly... I fell in love with :anchor:Hamburg.</li>
 </ul>
-
 
