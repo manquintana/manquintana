@@ -19,6 +19,6 @@
       <li>Programming workshop II (Faculty of Communication)</li>
       <li>Financial applications with Python (FinLab of the Faculty of Economics)</li>
     </ol>
-  <li>This year I was traveling with my girlfriend around Germany and suddenly... I fell in love with :anchor:Hamburg.</li>
+  <li>This year I was traveling with my girlfriend around Germany and suddenly... I fell in love with Hamburg:anchor:</li>
 </ul>
 
