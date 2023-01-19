@@ -9,7 +9,7 @@
 <h2>Bio</h2>
 <ul>
   <li>:baby: I was born in Buenos Aires in 1990.</li>
-  <li>:mortar_board: I studied Information Engineering @ UADE University.</li>
+  <li>:mortar_board: I studied Software Engineering @ UADE University.</li>
   <li>:construction_worker: I'm working @ <a href="https://www.congreso.gob.ar/" target="_blank">Congreso de la Nación</a>, as IT Infrastructure's subdirector.</li>
   <li>:books: I'm teaching engineering and informatics @ <a href='https://www.uade.edu.ar/' target="_blank">UADE</a>.</li>
     <ol>
