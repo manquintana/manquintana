@@ -4,7 +4,7 @@
 
  I’m...
  
-- ...Punk-rocking in Leipzig :de:
+- ...punk-rocking in Leipzig :de:
 - ...interested in hacking, programming, teaching, sk8ing and swimming @ Kulki See 👀
 - ...learning how to fill my README.md file -> OK, that's done :heavy_check_mark:
 
