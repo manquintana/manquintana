@@ -4,8 +4,8 @@
 
  I’m...
  
-- ...looking for a job in Deutschland :de:
-- ...interested in programming, teaching and punk rocking 👀
+- ...Punk-rocking in Leipzig :de:
+- ...interested in hacking, programming, teaching, sk8ing and swimming @ Kulki See 👀
 - ...learning how to fill my README.md file -> OK, that's done :heavy_check_mark:
 
 You can contact me at manquintana@uade.edu.ar 📫
@@ -14,8 +14,8 @@ You can contact me at manquintana@uade.edu.ar 📫
 <ul>
   <li>:baby: I was born in Buenos Aires in 1990.</li>
   <li>:mortar_board: I studied Software Engineering @ UADE University.</li>
-  <li>:construction_worker: I'm working @ <a href="https://www.congreso.gob.ar/" target="_blank">Congreso de la Nación</a>, as IT Infrastructure's subdirector.</li>
-  <li>:books: I'm teaching engineering and informatics @ <a href='https://www.uade.edu.ar/' target="_blank">UADE</a>.</li>
+  <li>:construction_worker: I'm working @ <a href="https://www.spreadgroup.com/" target="_blank">SpreadGroup</a>, as Software Engineer.</li>
+  <li>:books: I'm teaching Engineering and Informatics @ <a href='https://www.uade.edu.ar/' target="_blank">UADE</a>.</li>
     <ol>
       <li>Principles of Programming (Faculty of Engineering)</li>
       <li>Data science university course (Faculty of Engineering)</li>
