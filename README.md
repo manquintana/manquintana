@@ -14,14 +14,13 @@ You can contact me at manquintana@uade.edu.ar 📫
 <ul>
   <li>:baby: I was born in Buenos Aires in 1990.</li>
   <li>:mortar_board: I studied Software Engineering @ UADE University.</li>
-  <li>:construction_worker: I'm working @<a href="https://www.spreadgroup.com/" target="_blank">SpreadGroup</a> as System Engineer.</li>
-  <li>:books: I'm teaching Engineering and Informatics @<a href='https://www.uade.edu.ar/' target="_blank">UADE</a>.</li>
+  <li>:construction_worker: I'm working @ <a href="https://www.spreadgroup.com/" target="_blank">SpreadGroup</a> as System Engineer.</li>
+  <li>:books: I'm teaching Engineering and Informatics @ <a href='https://www.uade.edu.ar/' target="_blank">UADE</a>.</li>
     <ol>
       <li>Principles of Programming (Faculty of Engineering)</li>
       <li>Data science university course (Faculty of Engineering)</li>
       <li>Programming workshop I and II (Faculty of Communication)</li>
       <li>Financial applications with Python (FinLab of the Faculty of Economics)</li>
     </ol>
-  <li>Last year I was traveling with my girlfriend around Germany and suddenly... I fell in love with Hamburg:anchor:</li>
 </ul>
 
