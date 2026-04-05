@@ -4,7 +4,7 @@
 
  I’m...
  
-- ...punk-rocking in Leipzig 🦁
+- ...rock'n'rolling in Leipzig (Blert, Mythrandir, Lost Zander and other colabs) 🦁
 - ...interested in electronics, programming, teaching, sk8ing and swimming @ Kulki See 👀
 
 You can contact me at [Linkedin](https://www.linkedin.com/in/manquintana/)📫
