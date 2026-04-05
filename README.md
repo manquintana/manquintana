@@ -4,18 +4,17 @@
 
  I’m...
  
-- ...punk-rocking in Leipzig :de:
-- ...interested in hacking, programming, teaching, sk8ing and swimming @ Kulki See 👀
-- ...learning how to fill my README.md file -> OK, that's done :heavy_check_mark:
+- ...punk-rocking in Leipzig 🦁
+- ...interested in electronics, programming, teaching, sk8ing and swimming @ Kulki See 👀
 
-You can contact me at manquintana@uade.edu.ar 📫
+You can contact me at [Linkedin](https://www.linkedin.com/in/manquintana/)📫
 
 <h2>Bio</h2>
 <ul>
   <li>:baby: I was born in Buenos Aires in 1990.</li>
   <li>:mortar_board: I studied Software Engineering @ UADE University.</li>
-  <li>:construction_worker: I'm working @ <a href="https://www.spreadgroup.com/" target="_blank">SpreadGroup</a> as System Engineer.</li>
-  <li>:books: I'm teaching Engineering and Informatics @ <a href='https://www.uade.edu.ar/' target="_blank">UADE</a>.</li>
+  <li>:construction_worker: I moved to Germany to work as System Engineer @ <a href="https://www.spreadgroup.com/" target="_blank">SpreadGroup</a>.</li>
+  <li>:books: I teached Engineering and Informatics from 2021 to 2024 @ <a href='https://www.uade.edu.ar/' target="_blank">UADE</a>:</li>
     <ol>
       <li>Principles of Programming (Faculty of Engineering)</li>
       <li>Data science university course (Faculty of Engineering)</li>
@@ -23,4 +22,3 @@ You can contact me at manquintana@uade.edu.ar 📫
       <li>Financial applications with Python (FinLab of the Faculty of Economics)</li>
     </ol>
 </ul>
-
